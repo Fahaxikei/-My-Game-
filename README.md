@@ -9,6 +9,9 @@
 游戏现阶段已经实现：基础的角色移动，地图搭建，补给拾取，基础的怪物设定，基础的角色攻击，简单的UI设计和基本的游戏玩法。
 
 后续会实现武器系统的改装已经第三人称的视角切换，已经一些特殊攻击动作。
+链接：https://pan.quark.cn/s/fa47ec870677
+提取码：ykvB
+（解压第一个压缩包后，点击exe即可游玩现行游戏demo）
 
 This is a first-person shooter (FPS) game that I am still learning and developing, built using Unreal Engine 5.
 
